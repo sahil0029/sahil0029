@@ -27,7 +27,7 @@
 
 <a href="https://www.linkedin.com/in/rishabhSinghSahil" target="blank"><img align="left" src="https://img.shields.io/badge/Rishabh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Rishabh"  /></a>
 
-<a href="https://www.instagram.com/frankie_sahil_/" target="blank"><img align="left" src="https://img.shields.io/badge/Rishabh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Rishabh"  /></a>
+<a href="https://www.instagram.com/frankie_sahil_/" target="blank"><img align="left" src="https://img.shields.io/badge/Rishabh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="frankie"  /></a>
 
 <br/><br/>
 ## GitHub Stats :
