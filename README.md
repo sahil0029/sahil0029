@@ -25,9 +25,9 @@
 
 ## Connect with me:
 
-<a href="linkedin.com/in/rishabh-singh-sahil-8a14bb1a9/" target="blank"><img align="left" src="https://img.shields.io/badge/Rishabh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Rishabh"  /></a>
+<a href="www.linkedin.com/in/rishabhSinghSahil" target="blank"><img align="left" src="https://img.shields.io/badge/Rishabh-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)" alt="Rishabh"  /></a>
 
-<a href="#" target="blank"><img align="left" src="https://img.shields.io/badge/Rishabh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Rishabh"  /></a>
+<a href="https://www.instagram.com/frankie_sahil_/" target="blank"><img align="left" src="https://img.shields.io/badge/Rishabh-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Rishabh"  /></a>
 
 <br/><br/>
 ## GitHub Stats :
