@@ -1,16 +1,16 @@
-# Hi there.!👋 I'm Rishabh😎...
+# Hi there.!👋 I'm Rishabh...
 
 ### 📍 _Chennai, India._
 
 
-## I'm a Student🧑🏻, Learner📝, UI/UX Designer and Developer💡!!
+## I'm a Student🏻, Learner, UI/UX Designer and Developer !!
 
 <br/>
 
-- ✨ _Currently brushing up skills._
-- 🌎 _I am a UI/UX Designer._
-- 😅 _I’m currently learning everything.!_ 😅
-- 👯 _I’m looking to collaborate with other developers._ 😀
+-  _Currently brushing up skills._
+-  _I am a UI/UX Designer._
+-  _I’m currently learning everything.!_ 
+-  _I’m looking to collaborate with other developers._ 
 
 <br/>
 
