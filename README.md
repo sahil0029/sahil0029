@@ -1,4 +1,4 @@
-# Hi there.!👋 I'm Rishabh...
+# Hi there..!!👋 I'm Rishabh...
 
 ### 📍 _Chennai, India._
 
@@ -40,4 +40,4 @@
 
 <br>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=sahil0029&show_icons=true&bg_color=0D1117&color=FA8F78&line=FF5733&point=FFFFFF&hide_border=true" />
+<img src="https://activity-graph.
