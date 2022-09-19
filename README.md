@@ -3,7 +3,7 @@
 ### 📍 _Chennai, India._
 
 
-## I'm a Student🏻, Learner, UI/UX Designer and Developer !!
+## I'm a Student, Learner, UI/UX Designer and Developer !!
 
 <br/>
 
