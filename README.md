@@ -71,7 +71,7 @@ src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-origi
 
 ## Badges 
 
-<img src="badges3.png" width="150px"> <img src="badges4.png" width="160px"> <img src="badges5.png" width="150px"> <img src="badges6.png" width="160px"> <img src="badges1.png" width="250px"> <img src="badges2.png" width="140px">
+<img src="badges3.png" width="150px"> <img src="badges4.png" width="160px"> <img src="badges5.png" width="150px"> <img src="badges6.png" width="160px"> <img src="badges1.png" width="230px"> <img src="badges2.png" width="140px"> <img src="sql.png" width="180px">
 
   
 
