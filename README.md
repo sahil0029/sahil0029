@@ -16,7 +16,7 @@
 - 😬 Grind Chalu on learning back-end (Express / NodeJS) & on solving Data Structures problems on LeetCode using C++14.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Talk to me about Coding, UI/UX Design, Freelancing Opportunites, Full Stack development.
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11PuelAV7qMUutowvGHAdGSOvduJ8TXgl/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1knmifYfSs3xR8GUBVjoFyDac6eUwDkf0/view?usp=sharing )
 - 👨‍💻 Want to know me more..??  [My Portfolio](https://sahil0029.github.io/rishabhPortfolio/)
 
 <br/>
