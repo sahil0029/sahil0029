@@ -1,5 +1,5 @@
-![head](bottom_tail.svg)
-<h1 align=center> Hi There✌, I'm  Rishabh </h1>
+![head](bottom_tail.svg) 
+<h1 align=center> Hi There✌, I'm  Rishabh Singh Sahil </h1>
 
 ### The Freelancer | Software Engineer | Product Designer
 <br>
