@@ -1,74 +1,17 @@
-<div style="max-width: 100%; overflow-x: auto;">
-  <a href="https://www.into-y0u.github.io/Portfolio1/">
-    <img src="https://github.com/Into-Y0u/Into-Y0u/blob/53c2639571463a76ea024c6f75b69dd0b2655423/github-banner.png" alt="MasterHead" style="max-width: 100%;">
-  </a>
-</div>
+![head](bottom_tail.svg)
+<h1 align=center> Hi There✌, I'm  Rishabh </h1>
 
-<div style="text-align: center;">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Into-Y0u.Into-Y0u" alt="visitors">
-</div>
+### The Freelancer | Software Engineer | Product Designer
+<br>
 
----
+- 🔭 I’m currently working on Structured data,GenAi and other cool AI ML Stuff 
+- 🌱 I’m currently learning GenAI, RAGs and GCP best pratices 
+- 👯 I’m looking to collaborate on Software Engineering releated projects
+- 💬 Ask me about DSA , UI/UX Design , GenAI , Operating System .
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I knew HTML can't hack NASA  when I started learning it in 2nd year.
 
-# Namaste..!!👋 I'm Rishabh Singh Sahil
-
-## About Me :
-- 😬 Grind Chalu on learning back-end (Express / NodeJS) & on solving Data Structures problems on LeetCode using C++14.
-- 👯 I’m looking to collaborate on Projects.
-- 💬 Talk to me about Coding, UI/UX Design, Freelancing Opportunites, Full Stack development.
-
-<br/>
-
-## Socials
-
-<div style="text-align: center;">
-  <a href="https://www.linkedin.com/in/rishabhSinghSahil" target="blank"><img align="left" alt="LinkedIn" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" /></a>
-
-<a href="https://www.instagram.com/frankie_sahil_/" target="blank"><img align="left" alt="Instagram" width="45px" 
-src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" /></a>
-
-<a href="https://dribbble.com/frankiesahil" target="blank"><img align="left" alt="Dribbble" width="45px" 
-src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Dribbble.svg" /></a>
-</div>
-
-<br/><br/>
-
-## Tech Stack
-
-<div style="text-align: center;">
-  <img align="left" alt="Figma" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />
-<img align="left" alt="Illustrator" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/illustrator/illustrator-line.svg" />
-<img align="left" alt="Photoshop" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="C++" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="Adobe XD" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" />
-<img align="left" alt="git" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" />
-<img align="left" alt="HTML5" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" />
-<img align="left" alt="Javascript" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="Javascript" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="Javascript" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" alt="Javascript" width="40px" 
-src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-original.svg" />
- </div>
- 
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-## GitHub Stats :
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahil0029&show_icons=true&theme=radical&hide_border=true" />
 
@@ -78,8 +21,50 @@ src="https://github.com/devicons/devicon/blob/master/icons/webflow/webflow-origi
 
 <br>
 
-## Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!---### Organizations 🏢
 
----
+- Campus Ambassdor at [Colleduniya Web Pvt. Ltd.](https://collegedunia.com/)-->
+
+<!--- ### Experience ⚓ 
+
+- Project lead and Machine Learning Developer Intern [@Technocolabs](https://github.com/Technocolabs100)-->
+
+### Languages , Tools & Relevant Courseworks:<img src="https://camo.githubusercontent.com/40dff491d4e8123af55298ef908faedb66c463e5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="39px">
+
+
+- C++
+- Python
+- Java
+- VS Code
+- Figma
+- MERN Stack
+- Adobe XD
+- Computer Network
+- Data Structures Algorithms
+- Operating System
+- Flask 
+- PL/SQL
+
+### Contact me
+
+<p align="left">
+   <a href="mailto:imrishabh82@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png"  height="50" width="50" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rishabhsinghsahil/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png"  height="60" width="60" /></a> 
+  <a href="https://www.instagram.com/frankie_sahil_/"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"  height="60" width="60" /></a> &nbsp;&nbsp;
+
+</p>
+
+### Extras🎈🎈
+- 📄 [My Certificates](https://drive.google.com/drive/folders/1TXrJTxIxCF9sSl-ZOKvPkQ7FTEVp3_L_?usp=sharing)
+- 💻 [My Portfolio](https://linktr.ee/aden0029)
+- 📜 [My Resume](https://drive.google.com/file/d/1SRvD3F8uw0Zy92kccJ0dnGB8Jr1wiRRU/view?usp=sharing)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rahulraj31&label=Profile%20views&color=0e75b6&style=flat" alt="kavyasree-2020" /> </p>
+
+<p align="center" styles="font-size: 100px"> 
+   <b>❤️ Thank you for visiting my Github Profile ❤️</b>
+</p>
+<br>
+
+![tail](bottom_header.svg)
